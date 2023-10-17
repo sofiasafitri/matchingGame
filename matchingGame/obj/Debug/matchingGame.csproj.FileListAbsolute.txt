@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\matchingGame\matchingGame\bin\Debug\matchingGame.exe.config
+C:\Users\Lenovo\source\repos\matchingGame\matchingGame\bin\Debug\matchingGame.exe
+C:\Users\Lenovo\source\repos\matchingGame\matchingGame\bin\Debug\matchingGame.pdb
+C:\Users\Lenovo\source\repos\matchingGame\matchingGame\obj\Debug\matchingGame.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\matchingGame\matchingGame\obj\Debug\matchingGame.Form1.resources
+C:\Users\Lenovo\source\repos\matchingGame\matchingGame\obj\Debug\matchingGame.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\matchingGame\matchingGame\obj\Debug\matchingGame.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\matchingGame\matchingGame\obj\Debug\matchingGame.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\matchingGame\matchingGame\obj\Debug\matchingGame.exe
+C:\Users\Lenovo\source\repos\matchingGame\matchingGame\obj\Debug\matchingGame.pdb
